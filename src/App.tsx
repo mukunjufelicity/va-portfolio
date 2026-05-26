@@ -29,7 +29,7 @@ import Packages from './components/Packages';
 import Testimonials from './components/Testimonials';
 
 // Import Felicity's permanent portrait
-import felicityPortrait from './assets/images/felicity_portrait_1779753169534.png';
+import felicityPortrait from './assets/images/felicity.jpg';
 
 export default function App() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
