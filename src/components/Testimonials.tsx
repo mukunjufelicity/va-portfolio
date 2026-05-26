@@ -3,9 +3,9 @@ import { Quote, ChevronLeft, ChevronRight, CheckCircle, ShieldCheck } from 'luci
 import { motion, AnimatePresence } from 'motion/react';
 
 // Import the generated images
-import sarahImg from '../assets/images/testimonial_sarah.jpg';
-import mbuviImg from '../assets/images/testimonial_mbuvi.jpg';
-import pavanImg from '../assets/images/testimonial_pavan.jpg';
+import sarahImg from '../assets/images/sarah.jpg';
+import mbuviImg from '../assets/images/mbuvi.jpg';
+import pavanImg from '../assets/images/pavan.jpg';
 
 interface Testimonial {
   id: string;
