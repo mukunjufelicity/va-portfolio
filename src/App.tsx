@@ -220,13 +220,7 @@ export default function App() {
                   <ArrowRight className="w-4 h-4" />
                 </a>
 
-                <a
-                  href="mailto:felicitymukunju@gmail.com"
-                  className="bg-white hover:bg-stone-150 border border-stone-300 text-stone-700 font-semibold text-xs tracking-wider uppercase py-4 px-6 rounded-xl transition-colors duration-300 text-center flex items-center justify-center gap-1.5"
-                >
-                  <Mail className="w-4 h-4 text-[#bd4f3a]" />
-                  felicitymukunju@gmail.com
-                </a>
+               
               </div>
 
             </div>
@@ -623,14 +617,7 @@ export default function App() {
                   <span className="text-[11px] font-mono tracking-wider font-bold text-stone-400 block uppercase">Official Channels</span>
                   
                   <div className="flex flex-col sm:flex-row gap-3">
-                    <a
-                      href="mailto:felicitymukunju@gmail.com"
-                      className="bg-white hover:bg-stone-100 border border-stone-200 text-stone-700 py-3.5 px-6 rounded-xl text-xs font-semibold uppercase tracking-wider transition-colors duration-250 flex items-center justify-center gap-2 flex-1 shadow-2xs"
-                    >
-                      <Mail className="w-4 h-4 text-[#bd4f3a]" />
-                      felicitymukunju@gmail.com
-                    </a>
-
+                   
                     <button
                       onClick={handleBookConsultation}
                       className="bg-[#132c2a] hover:bg-[#1e4441] text-white py-3.5 px-6 rounded-xl text-xs font-semibold uppercase tracking-wider transition-colors duration-250 flex items-center justify-center gap-2 flex-1 shadow-xs cursor-pointer"
