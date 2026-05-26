@@ -15,7 +15,7 @@ const packages = [
       'Daily calendar check & conflicting times resolved',
       'Up to 15 meetings scheduled per month',
       'Drafting routine business email templates',
-      'Direct email support (felicitymukunju@gmail.com)'
+      
     ]
   },
   {
