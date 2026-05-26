@@ -49,7 +49,7 @@ export default function App() {
   }, []);
 
   const handleBookConsultation = () => {
-    window.open('https://calendly.com/felicitymukunju/consultation', '_blank', 'noreferrer');
+    window.open('https://calendly.com/felicitymukunju/30min', '_blank', 'noreferrer');
   };
 
   const navLinks = [
